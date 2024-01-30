@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/daily/2024-01-30.md",
+                "file": "templates/Template - Daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/daily/2024-01-30.md",
+                "file": "templates/Template - Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/daily/2024-01-30.md",
+                "file": "templates/Template - Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/daily/2024-01-30.md"
+                "file": "templates/Template - Daily.md"
               }
             }
           }
@@ -188,15 +188,20 @@
   },
   "active": "4720a1b3679b786c",
   "lastOpenFiles": [
+    "assets/preferences-panel.png",
+    "assets/obsidian-prompt.png",
+    "assets",
+    "Neuer Ordner",
+    "README.md",
+    "templates/Template - Yearly.md",
+    "templates/Template - Weekly.md",
+    "journals/daily/2024-01-30.md",
     "journals/weekly/2024-W05.md",
     "journals/yearly/2024.md",
-    "journals/daily/2024-01-30.md",
     "templates/Template - Daily.md",
     "journals/yearly",
     "journals/weekly",
     "journals/daily",
-    "templates/Template - Weekly.md",
-    "templates/Template - Yearly.md",
     "Vault-Changelog.md",
     "journals",
     "notes/Demo File.md",
