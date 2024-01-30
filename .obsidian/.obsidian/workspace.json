@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "12295a50adce3082",
+    "type": "split",
+    "children": [
+      {
+        "id": "83993af71a9c393e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee6b26266c64bfcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/daily/2024_01_30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3765c0eeb742ddcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15247a51ffbe3f20",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "563c752b1184ae3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47a0d5fc0d9444af",
+        "type": "tabs",
+        "dimension": 27.560975609756095,
+        "children": [
+          {
+            "id": "e6fd03669f8acb81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e30ed3ec66cd2b7c",
+        "type": "tabs",
+        "dimension": 19.430894308943092,
+        "children": [
+          {
+            "id": "771892e71f0b8a63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "080974da02db1859",
+        "type": "tabs",
+        "dimension": 53.00813008130081,
+        "children": [
+          {
+            "id": "cd397cb2588bff7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd5d4abc8d958219",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa8350c2bce1b267",
+    "type": "split",
+    "children": [
+      {
+        "id": "21128146e6de0c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e96c8bad1573e9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39ffd4fbbcd1119c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0609b5550d653bc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00e64943cd5af52f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3532673fdbba778a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "04c8178057a1d802",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "15247a51ffbe3f20",
+  "lastOpenFiles": [
+    "journals/daily/2024_01_30.md",
+    "journals/daily/2024_01_29.md",
+    "journals/weekly/2023-W51.md",
+    "journals/weekly/2024-W05.md",
+    "journals/weekly/2024-W04.md",
+    "Templates/Template - Daily.md",
+    "journals/daily/2024_01_31.md",
+    "Templates/Template - Weekly.md",
+    "Templates/Template - Resource.md",
+    "pages/TfT Hacker.md",
+    "pages/Vim Cheatsheet.md",
+    "pages/Vim.md",
+    "journals/daily/2024_01_26.md",
+    "Workbench.md",
+    "pages/t1p.de.md",
+    "pages/DragonUtilities.md",
+    "Note Maintenance.md",
+    "journals/daily/2024_01_25.md",
+    "pages/SwiftyMocky.md",
+    "Note-Changelog.md",
+    "pages/Swift Date Calculations.md",
+    "pages/LEGO.md",
+    "pages/2024-01-24 bencodezen - Obsidian Office Hour.md",
+    "pages/bencodezen - Obsidian Office Hour.md",
+    "pages/Ben Hong.md",
+    "pages/Maggie Appleton.md",
+    "logseq/bak/pages/SwiftData",
+    "logseq/bak/pages/Paretoprinzip",
+    "logseq/bak/pages/Content Ideen 2024",
+    "logseq/bak/pages/App - CiArEm",
+    "logseq/bak/pages/App - Scorar",
+    "logseq/bak/Templates/Template - Daily",
+    "logseq/bak/class/Project",
+    "logseq/bak/class/Article",
+    "logseq/bak/pages",
+    "logseq/bak/class",
+    "attachments/EnBW - SAP Start - AT1.png",
+    "attachments/EnBW - SAP Start - AE1.png",
+    "attachments/SwiftData - Migration Example - Schema.png",
+    "attachments/SwiftData - Migration Example - SchemaMigrationPlan - Execute Migration.png",
+    "attachments/2023_Twitch_Recap.png",
+    "Untitled.canvas",
+    "attachments/Wordpress-Migrate-DB-Example.png",
+    "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.svg"
+  ]
+}

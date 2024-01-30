@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1698390134134,
+      "path": "DataView - Example Queries.md",
+      "title": "DataView Examples"
+    },
+    {
+      "type": "file",
+      "ctime": 1702855411207,
+      "path": "Workbench.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1704716323703,
+      "path": "pages/Content Ideen 2024.md",
+      "title": "Content Creation Ideen"
+    },
+    {
+      "type": "group",
+      "ctime": 1699544000691,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1699543926369,
+          "path": "Note Maintenance.md",
+          "title": "Vault Todos"
+        },
+        {
+          "type": "file",
+          "ctime": 1701763217451,
+          "path": "Note-Changelog.md",
+          "title": "Changelog"
+        }
+      ],
+      "title": "Vault Maintenance"
+    }
+  ]
+}

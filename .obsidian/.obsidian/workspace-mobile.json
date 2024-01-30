@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "12295a50adce3082",
+    "type": "split",
+    "children": [
+      {
+        "id": "58cf4ce4c13f4292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b91489b738c77fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0096e4cd11badffd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7527b28a184cfde1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0e291044628f14b9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "49b071b8bdcbf355",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e04450da7c7539a8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      },
+      {
+        "id": "4d9496362403d2b4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1340ad3a687bffe3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2f4b5289070f0dfc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c7b2ab52ea5c05a3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "20cbcb2228f0b99d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "886eeb670dd17bcf",
+        "type": "leaf",
+        "state": {
+          "type": "Strange New Worlds",
+          "state": {}
+        }
+      },
+      {
+        "id": "583d86e4e287e0c2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "2b91489b738c77fe",
+  "lastOpenFiles": [
+    "pages/TfT Hacker.md",
+    "journals/daily/2024_01_24.md",
+    "journals/daily/2024_01_27.md",
+    "pages/t1p.de.md",
+    "journals/daily/2024_01_26.md",
+    "journals/daily/2024_01_25.md",
+    "pages/2024-01-24 bencodezen - Obsidian Office Hour.md",
+    "pages/Ben Hong.md",
+    "pages/Maggie Appleton.md",
+    "attachments/Wordpress-Migrate-DB-Example.png",
+    "pages/Live Activities.md",
+    "pages/Xcode Cloud.md",
+    "attachments/2022-Linear-cycle-time.png",
+    "attachments/SwiftUI Elements - Text - LineLimit.png",
+    "attachments/2022-Linear-top-labels.png",
+    "pages/Technische Schulden.md",
+    "pages/PullRequest.md",
+    "attachments/Pasted image 20230727161331.png",
+    "pages/Swift - Routing.md",
+    "pages/Swift - Actor.md",
+    "pages/Visual Studio Code.md",
+    "Omnivore/2024-01-19/Typestate - the new Design Pattern in Swift 5.9 - Swiftology.md",
+    "journals/daily/2024_01_20 1.md",
+    "pages/Conventional Commits.md",
+    "pages/2024-01-15 DevLog.md",
+    "pages/Brick Merge.md",
+    "logseq/bak/pages/SwiftData/2024-01-20T17_41_24.349Z.Desktop.md",
+    "pages/Dorothea Penner.md",
+    "attachments/SwiftUI Elements - Text - FontStyle.png",
+    "attachments/2022-Linear-completed-issues.png",
+    "logseq/bak/Workbench/2024-01-20T17_41_24.592Z.Desktop.md",
+    "pages/Data Transfer Object.md",
+    "logseq/bak/pages/App - Scorar/2024-01-20T17_41_24.092Z.Desktop.md",
+    "attachments/Registrierungsbestaetigung-Marktstammdatenregister-SEE942082228043.pdf",
+    "attachments/2023-01-16 EnBW - Workshop - Beispiel Trigger Update.png",
+    "attachments/Obsidian-File-Metadata.jpeg",
+    "attachments/2022-Linear-top-projects.png",
+    "attachments/haus_dachgeschoss_skizze.pdf",
+    "attachments/2023-05-11 Dewald - Wartung Heizung.pdf",
+    "attachments/2023-07-25 Rechnung-Kälte und Klima.pdf",
+    "attachments/2021-ZAKB.pdf",
+    "attachments/2022-ZAKB.pdf",
+    "attachments/Rechnung-iPhone-Traudel.pdf",
+    "journals/weekly",
+    "journals/yearly",
+    "journals/daily"
+  ]
+}

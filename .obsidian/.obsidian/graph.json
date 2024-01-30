@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Templates",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:journals  ",
+      "color": {
+        "a": 1,
+        "rgb": 776805
+      }
+    },
+    {
+      "query": "tag:#to/process  -path:logseq  ",
+      "color": {
+        "a": 1,
+        "rgb": 11010048
+      }
+    },
+    {
+      "query": "path:Omnivore",
+      "color": {
+        "a": 1,
+        "rgb": 16763905
+      }
+    },
+    {
+      "query": "[\"type\":\"devlog\"] -path:Templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 5114501
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.510782877604167,
+  "repelStrength": 11.1995442708333,
+  "linkStrength": 0.964436848958333,
+  "linkDistance": 169,
+  "scale": 0.1319677950613544,
+  "close": false
+}
